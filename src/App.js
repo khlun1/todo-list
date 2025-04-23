@@ -3,6 +3,7 @@ import { AuthProvider } from "./components/AuthContext";
 import PrivateRoute from "./components/PrivateRoute";
 import Todo from "./components/Todo";
 import Login from "./components/Login";
+import "./App.css";
 
 function App() {
   return (
